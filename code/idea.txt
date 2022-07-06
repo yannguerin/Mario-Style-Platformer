@@ -1,0 +1,17 @@
+#IDEA LIST
+
+2D Platformer Ideas
+- Menu (***Shop: powerups (find), ...)
+- Powerups: Invincibility for a few seconds, in size, health increase
+- ***Jump boost platforms
+- *** Making maps bigger (x)
+- Making maps bigger (y)
+- ***Destroyable crates that give you random (coin, hearts, enemies) (one small positioning bug
+- Watermelon (boosts health)
+- Weapons
+- Brain that shows you spots/hints for where to Jump
+- *Dragon, ships, giraffes, 
+- Level names in overworld (under icons)
+- More assets (rocks..)
+- Teleporters (beggining/end)
+- Next overworked, after or before level 6
